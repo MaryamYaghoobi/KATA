@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b370b1c-057f-4895-8199-a013ad33e880" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/kata/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/kata/PrimeNumberIdentifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/kata/PrimeNumberIdentifierTest.java" afterDir="false" />
+    <list default="true" id="9b370b1c-057f-4895-8199-a013ad33e880" name="Changes" comment="Initial Commit:  &#10;- Added base project structure&#10;Configured Maven with JUnit 5 dependencies.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -53,7 +51,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,6 +63,14 @@
       <option name="presentableId" value="Default" />
       <updated>1744990862892</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit:  &#10;- Added base project structure&#10;Configured Maven with JUnit 5 dependencies.">
+      <created>1744997153625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744997153625</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,7 +84,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="prime-number" />
                       </list>
                     </value>
                   </entry>
@@ -89,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit:  &#10;- Added base project structure&#10;Configured Maven with JUnit 5 dependencies." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit:  &#10;- Added base project structure&#10;Configured Maven with JUnit 5 dependencies." />
   </component>
 </project>
